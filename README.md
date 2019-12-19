@@ -1,5 +1,5 @@
 # LIME-TUNER
-#### The LIME_TUNER_LIBRARY contains the 
+##### The LIME_TUNER_LIBRARY contains :
 * the modified code of LIME (the original code was taken from the github, I have made the changes  in it)
 * tuner_library.py - class Tuner is defined here, which have arguments as the text instance for which you need the explanation, the filename (blackbox model in the form of serialize .pkl file), and the class_names(the names of target classes, which will be used by LIME code)
 ##### Note : This code works for binary text classification dataset.
